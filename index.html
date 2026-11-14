@@ -129,7 +129,7 @@
         document.getElementById("result").innerHTML =
           "ok nays, chamba. switching rn...";
         setTimeout(() => {
-          window.location.href = "https://spanishbread012526.github.io/lyn-project/giftbox.html";
+          window.location.href = "https://spanishbread012526.github.io/okidoks/box.html";
         }, 2000);
       } else {
         document.getElementById("result").innerHTML =
