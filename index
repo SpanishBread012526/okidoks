@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ig thats the way things go..</title>
+  <title>ouuuuuu'</title>
   <style>
     body {
       font-family: "Georgia", serif;
@@ -55,46 +55,46 @@
 </head>
 <body>
   <h1>.....<br>
-  hm..</h1>
+ ouuu</h1>
   <form id="quizForm">
     <div class="question">
-      1. whos the jjk character tha is ur current husband that u love licking to and has big muscles?<br>
+      1. si is no<br>
       <input type="text" name="q1">
     </div>
     <div class="question">
-      2. Which romantic movie is famous for the line: “I want all of you, forever, you and me, every day”?<br>
+      2. ako ang?<br>
       <input type="text" name="q2">
     </div>
     <div class="question">
-      3. What’s the name of my turtle who hangs from the ceiling?<br>
+      3. ouuu<br>
       <input type="text" name="q3">
     </div>
     <div class="question">
-      4. white haired dude, sometimes a daddy, blindfolded, juicy ahh and called “the strongest juicy sorcerer”?<br>
+      4. bayot<br>
       <input type="text" name="q4">
     </div>
     <div class="question">
-      5. hes a cursed alpha who tries to take over the world with his fingers? aka king of courses.<br>
+      5. bayot<br>
       <input type="text" name="q5">
     </div>
     <div class="question">
-      6. juicy guy big bicep, ur other husband, got hit by a purple orb by gojo.<br>
+      6. bayot<br>
       <input type="text" name="q6">
     </div>
     <div class="question">
-      7. what do u do to nanami? G___? clue: 4 words<br>
+      7. bayot<br>
       <input type="text" name="q7">
     </div>
     <div class="question">
-      8. cute, fat, yellow sanrio character !!<br>
+      8. bayot <br>
       <input type="text" name="q8">
     </div>
     <div class="question">
-      9. ur baby who is friends with slowbie?<br>
+      9. bayot<br>
       <input type="text" name="q9">
     </div>
     <div class="question">
-      10. root word for purity. bc it resembles something.<br>
+      10. bayot <br>
       <input type="text" name="q10">
     </div>
     <button type="button" onclick="checkAnswers()">Submit</button>
