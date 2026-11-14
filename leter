@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>letter</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: #fffafc;
+      padding: 40px;
+      color: #333;
+      max-width: 700px;
+      margin: auto;
+      line-height: 1.8;
+    }
+    h1 {
+      text-align: center;
+      color: #c71585;
+    }
+    a {
+      display: block;
+      margin-top: 30px;
+      text-align: center;
+      text-decoration: none;
+      color: #c71585;
+    }
+  </style>
+</head>
+<body>
+  <h1>lettir🙂</h1>
+  <p>
+    taray yelie,  
+    <br><br>
+hapi na birthday mo pa, habadu<br>
+
+hapi yarn<br>
+
+labyu 
+    <br><br>
+    Happy 16th, yel. may this year ano, photosynthesis. yes.  
+    <br><br>
+    — Gabi
+  </p>
+  <a href="giftbox.html"> back🙂</a>
+</body>
+</html>
+
