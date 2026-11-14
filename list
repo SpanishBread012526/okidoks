@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>playlist</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background: #f0f8ff;
+      padding: 40px 20px;
+      text-align: center;
+      margin: 0;
+    }
+
+    h1 {
+      color: #4169e1;
+      font-size: 8vw; /* scales with screen width */
+      margin-top: 0;
+    }
+
+    p {
+      font-size: 4vw;
+      color: #333;
+      margin: 10px 0 30px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      margin: 10px 0;
+    }
+
+    li a {
+      display: block;
+      width: 90%;          /* almost full screen width */
+      max-width: 400px;    /* max width for desktop */
+      margin: 10px auto;
+      padding: 15px 0;     /* height for easier tapping */
+      font-size: 20px;     /* base font size */
+      text-decoration: none;
+      color: #c71585;
+      font-weight: bold;
+      background: #ffe4e1; 
+      border-radius: 10px; 
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .back-link {
+      display: block;
+      width: 90%;
+      max-width: 400px;
+      margin: 30px auto 0;
+      padding: 15px 0;
+      font-size: 20px;
+      text-decoration: none;
+      color: #c71585;
+      font-weight: bold;
+      background: #ffe4e1;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    /* Mobile-specific tweaks */
+    @media (max-width: 400px) {
+      h1 {
+        font-size: 10vw;
+      }
+      p {
+        font-size: 5vw;
+      }
+      li a, .back-link {
+        font-size: 24px;
+        padding: 20px 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>a playlist:|</h1>
+  <p>idk why i added this here, i just want to, lol.TwT</p>
+  <ul>
+    <li><a href="https://open.spotify.com/playlist/78QhsflNKALJQ3DZJ3h5Ms?si=hP5ugemJSbOrIFw5r1Kw8w" target="_blank">a playlist i forgot to send:|</a></li>
+    <li><a href= "https://spanishbread012526.github.io/UnsentProj/un.html" target="_blank">notess, i might be sending some stuffs there lol. ik udc</a></li>
+  </ul>
+  <a href="giftbox.html" class="back-link">bacck to giftboxx :]</a>
+  
+
+</body>
+</html>
+
+
+
+
+
+
